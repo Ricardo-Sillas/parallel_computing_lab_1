@@ -3,6 +3,6 @@
 Matrix multiplication lab assignment using the pymp package.
 This assignment included two labs, one to compute the matrix
 multiplication without parallel computing, and another using
-parallel computing. The code for lab 1 got updated to create
-lab 2. These assingments were to get us familiar with pymp.
-Instructions to run files are in the documents.
+parallel computing. The code for lab 1 is in pcmatrix and the
+code for lab 2 is in lab_two. The instructions to run them is
+in the documents.
